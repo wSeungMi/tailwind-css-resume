@@ -6,7 +6,7 @@ Tailwind로 만든 이력서 템플릿입니다.
 👉  [이력서 템플릿 보러가기](https://wseungmi.github.io/tailwind-css-resume/)   
 
 <img src="readme-img/wsm_resume.png" width="400px"> 
-<img src="images/우수상_우승미.png" width="400px">
+<img src="images/excellence_prize.png" width="400px">
 
 <hr>
 
