@@ -1,12 +1,22 @@
-# 🎉 천하제일 이력서 경진대회
+# 🏆 WEB 이력서 디자인 경진대회
 
-Tailwind로 만든 이력서 템플릿입니다.  
-우수상을 수상했습니다.
+### 페이지 미리보기
+<img src="readme-img/wsm_resume.png" width="600px"> 
+
+
+### 소개
+Tailwind만 사용하여 만든 one page 이력서 템플릿입니다.  
+네비게이션을 통해 편리하게 원하는 섹션으로 이동할 수 있습니다.
+<br />
+
+
+### 수상이력
+<img src="images/excellence_prize.png" width="400px">
+
+
 
 👉  [이력서 템플릿 보러가기](https://wseungmi.github.io/tailwind-css-resume/)   
 
-<img src="readme-img/wsm_resume.png" width="400px"> 
-<img src="images/excellence_prize.png" width="400px">
 
 <hr>
 
